@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alvanctra.github.io/alvanctra.txt.gz
+Sitemap: https://alvanctra.github.io/app/alvanctra.txt.gz
+Sitemap: https://alvanctra.github.io/assets/alvanctra.txt.gz
+Sitemap: https://alvanctra.github.io/css/alvanctra.txt.gz
+Sitemap: https://alvanctra.github.io/includes/alvanctra.txt.gz
+Sitemap: https://alvanctra.github.io/item/alvanctra.txt.gz
+Sitemap: https://alvanctra.github.io/src/alvanctra.txt.gz
